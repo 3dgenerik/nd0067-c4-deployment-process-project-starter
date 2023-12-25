@@ -13,7 +13,7 @@ CircleCi read  `.circleci/config.yml` file and start jobs which are defined in t
 
 Workflow:
 
-Install all frontend dependencies 
+    - Install all frontend dependencies 
 `npm run frontend:install`
 
 Install all backend dependencies
