@@ -4,7 +4,7 @@
 ## Documentation links
 
 ### 
-![Infrastructure description](../documentation/Infrastructure_description.md)
+[Infrastructure description](documentation/Infrastructure_description.md)
 
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
 
