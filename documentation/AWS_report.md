@@ -10,3 +10,11 @@
 
 ### Outbound rules
 ![diagram](../graphics/RDS_03.png)
+
+## ELASTIC BEANSTALK
+
+### Health
+![diagram](../graphics/EB_01.png)
+
+### Env variables
+![diagram](../graphics/EB_02.png)
