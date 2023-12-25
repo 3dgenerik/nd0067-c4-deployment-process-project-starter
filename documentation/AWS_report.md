@@ -18,3 +18,14 @@
 
 ### Env variables
 ![diagram](../graphics/EB_02.png)
+
+## S3
+
+### General purpose bnuckets
+![diagram](../graphics/S3_01.png)
+
+### Static Website Hosting
+![diagram](../graphics/S3_02.png)
+
+### Objects
+![diagram](../graphics/S3_03.png)
