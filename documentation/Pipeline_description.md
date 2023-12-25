@@ -28,4 +28,4 @@ Build backend
 `npm run api:build`
 
 Deploy frontend and backend
-`npm run deploy`   
+`npm run deploy`
