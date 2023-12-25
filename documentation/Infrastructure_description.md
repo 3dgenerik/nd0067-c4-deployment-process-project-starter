@@ -19,6 +19,7 @@
         - BUCKET WEBSITE ENDPOINT: http://bucket-482921242854.s3-website-us-east-1.amazonaws.com 
 
 <br>
+
 ### Infrastructure diagram
 
 ![diagram](../graphics/Infrastructure.png)
