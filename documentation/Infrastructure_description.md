@@ -18,7 +18,7 @@
         - BUCKET: bucket-482921242854
         - BUCKET WEBSITE ENDPOINT: http://bucket-482921242854.s3-website-us-east-1.amazonaws.com 
 
-
-### Infrastructure Schema
+<br>
+### Infrastructure diagram
 
 ![diagram](../graphics/Infrastructure.png)
