@@ -4,7 +4,11 @@
 ## Documentation links
 
 ### 
-[Infrastructure description](documentation/Infrastructure_description.md)
+[- Infrastructure description](documentation/Infrastructure_description.md)
+[- App dependencies](documentation/App_dependencies.md)
+[- Pipeline description](documentation/Pipeline_description.md)
+[- AWS report](documentation/AWS_report.md)
+[- CircleCI report](documentation/CircleCI_report.md)
 
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
 
