@@ -20,6 +20,6 @@
 
 
 
-## Infrastructure diagram
+## AWS Infrastructure diagram
 
 ![diagram](../graphics/Infrastructure.png)
